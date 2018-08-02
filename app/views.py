@@ -1,6 +1,6 @@
 from flask import render_template
 from app import app
-from .requests import get_movies
+from app.request import get_movies
 
 
 

@@ -1,4 +1,4 @@
- class Movie:
+class Movie:
     '''
     Movie class to define Movie Objects
     '''
